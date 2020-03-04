@@ -1,0 +1,4 @@
+#ip passwd      wdshbs000
+172.20.1.80      xmhdipc
+172.20.1.81      xmhdipc
+172.20.1.82      xmhdipc
